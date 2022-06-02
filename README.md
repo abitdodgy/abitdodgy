@@ -7,7 +7,7 @@ I'm currently in charge of consumer and enterprise digital products at Obramax. 
 ### Updates
 
   - I finished writing a Worlde port in LiveView. Checkout the [gameplay video on YouTube](https://youtube.com/shorts/_a8ux4XpKLU?feature=share).
-  - ![Screenshot]([https://i.imgur.com/uV2eEyV.png](https://i.imgur.com/vVGgO3U.png))
+  - ![Screenshot](https://i.imgur.com/vVGgO3U.png)
   - Here's a CLI version.
 
 
