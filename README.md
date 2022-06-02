@@ -6,5 +6,7 @@ I'm currently in charge of consumer and enterprise digital products at Obramax. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abitdodgy&hide=contribs,prs&show_icons=true)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abitdodgy&langs_count=8&layout=compact&hide=coldfusion)
+-->
 
